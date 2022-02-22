@@ -7,6 +7,7 @@
 # About
 Hello,I am glab about your coming. I am a font developer.Under here have some of my projects.If you have any advice or questions,please
 tell me with any method you can. I am wellcome for the advice. 
+
 ### Wish you have a good day.
 
 
@@ -20,7 +21,6 @@ tell me with any method you can. I am wellcome for the advice.
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
-<!-- Pinned Repositories -- >
 
 <a href="https://github.com/TIMMLOPK/once">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TIMMLOPKr&repo=once&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -41,7 +41,6 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- GitHub Stats -- >
 
 <a href="https://github.com/TIMMLOPK">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMMLOPK&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -59,9 +58,9 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
