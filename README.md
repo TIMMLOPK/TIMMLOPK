@@ -46,9 +46,9 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> It has to be official, and it has to be urine.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Phyllis Lapin</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
