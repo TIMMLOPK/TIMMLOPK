@@ -1,8 +1,6 @@
 [![TIMMYLOPK's GitHub Banner](./assets/GitHubHeader.png)](https://lionceu.live)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://lionceu.live)
-    
-[![TIMMYLOPK's GitHub Stars](https://bages.pufler.dev/visit/TIMMLOPK/TIMMLOPK-Web)](https://github.com/TIMMLOPK/TIMMYLOPK-Web)
+[![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
 
 # About
 Hello,I am glab about your coming. I am a font developer.Under here have some of my projects.If you have any advice or questions,please
@@ -10,16 +8,10 @@ tell me with any method you can. I am wellcome for the advice.
 
 ### Wish you have a good day.
 
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END --> 
-
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/TIMMLOPK/once">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TIMMLOPKr&repo=once&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TIMMLOPK&repo=once&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -60,9 +52,3 @@ tell me with any method you can. I am wellcome for the advice.
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
