@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
 
 # About
-Hello,I am glab about your coming. I am a font developer.Under here have some of my projects.If you have any advice or questions,please
+Hello,I am glab about your coming. I am a font-end developer.Under here have some of my projects.If you have any advice or questions,please
 tell me with any method you can. I am wellcome for the advice. 
 
 ### Wish you have a good day.
@@ -46,9 +46,9 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Angela Martin</p>
+> <p>- Kevin Malone</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
