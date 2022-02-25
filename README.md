@@ -46,9 +46,9 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Michael Scott</p>
+> <p>- Gabe Lewis</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
