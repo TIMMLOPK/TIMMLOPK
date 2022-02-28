@@ -46,7 +46,7 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
