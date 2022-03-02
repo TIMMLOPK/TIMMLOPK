@@ -46,7 +46,7 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
 > <p>- Andy Bernard</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
