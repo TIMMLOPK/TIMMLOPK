@@ -46,7 +46,7 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> It has to be official, and it has to be urine.
 >
 > <p>- Dwight Schrute</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
