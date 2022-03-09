@@ -46,9 +46,9 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Erin Hannon</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
