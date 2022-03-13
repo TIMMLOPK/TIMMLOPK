@@ -46,9 +46,9 @@ tell me with any method you can. I am wellcome for the advice.
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
