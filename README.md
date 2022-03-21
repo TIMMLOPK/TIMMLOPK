@@ -3,10 +3,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
 
 # About
-Hello,I am glab about your coming. I am a font-end developer.Under here have some of my projects.If you have any advice or questions,please
-tell me with any method you can. I am wellcome for the advice. 
+Hello,glad to see you, I'm a software developer based in Javascript, Rustlang.If you have one or more question,I am waiting you.
 
-### Wish you have a good day.
+### Introducing my project 
 
 ## 📌 Pinned Repositories
 
