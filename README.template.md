@@ -1,6 +1,4 @@
-<img src="../assets/GitHubHeader.png" style="margin:1rem 0.5rem"/>
-
-[![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
+[![TIMMYLOPK's GitHub Banner](./assets/GitHubHeader.png)](https://lionceu.live)
 
 [![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
 
@@ -44,18 +42,13 @@ tell me with any method you can. I am wellcome for the advice.
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-<<<<<<< HEAD
- 
-<br>
-=======
 
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> {office_quote}
 >
-> <p>- Stanley Hudson</p>
+> <p>{office_character}</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
->>>>>>> ea0d962fa7285c9dd5d9e4e21d16426e66a0983a
