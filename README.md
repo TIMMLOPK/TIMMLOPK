@@ -1,14 +1,9 @@
-<img src="../assets/GitHubHeader.png" style="margin:1rem 0.5rem"/>
-
-[![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
+<img src="./assets/GitHubHeader.png" style="margin:1rem 0.5rem"/>
 
 [![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
 
 # About
-Hello,I am glab about your coming. I am a font-end developer.Under here have some of my projects.If you have any advice or questions,please
-tell me with any method you can. I am wellcome for the advice. 
-
-### Wish you have a good day.
+Hello,glad to see you, I'm a software developer based in Javascript, Rustlang.If you have one or more question,I am waiting you.
 
 ## 📌 Pinned Repositories
 
@@ -29,7 +24,7 @@ tell me with any method you can. I am wellcome for the advice.
 <br>
 <br>
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 
 <a href="https://github.com/TIMMLOPK">
@@ -44,18 +39,5 @@ tell me with any method you can. I am wellcome for the advice.
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-<<<<<<< HEAD
  
 <br>
-=======
-
-
-## 📣 How about an Office quote before you go?
-
-> Did I stutter?
->
-> <p>- Stanley Hudson</p>
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
->>>>>>> ea0d962fa7285c9dd5d9e4e21d16426e66a0983a
