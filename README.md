@@ -35,9 +35,5 @@ Hello,glad to see you, I'm a software developer based in Javascript, Rustlang.If
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TIMMLOPK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34"/>
 </a>
 
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMMLOPK)](https://github.com/anuraghazra/github-readme-stats)
 <br>
