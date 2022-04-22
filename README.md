@@ -1,10 +1,9 @@
-<img src="./assets/GitHubHeader.png" style="margin:1rem 0.5rem"/>
+<img src="./card.png" style="height:300px;width:550px"/>
 
 [![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
 
-# About
-Hello,glad to see you, I'm a software developer based in Javascript, Rustlang.If you have one or more question,I am waiting you.
-
+# 👻 About
+Hello! I am Timmy, a front-end developer. I am excited for you to come. We will surely have an amazing journey.💖
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/TIMMLOPK/once">
@@ -24,7 +23,7 @@ Hello,glad to see you, I'm a software developer based in Javascript, Rustlang.If
 <br>
 <br>
 
-## GitHub Stats
+## 📻 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMMLOPK)](https://github.com/anuraghazra/github-readme-stats)
 <br>
