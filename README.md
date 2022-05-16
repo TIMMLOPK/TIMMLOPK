@@ -27,3 +27,5 @@ Hello! I am Timmy, a front-end developer. I am excited for you to come. We will 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMMLOPK&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMMLOPK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
