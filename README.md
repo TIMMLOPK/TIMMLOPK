@@ -1,31 +1,40 @@
-<img src="./card.png" style="height:300px;width:550px"/>
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/72869479?v=4"/>
 
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=TIMMLOPK.TIMMLOPK)](https://lionceu.live)
+</br>
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=TIMMLOPK" alt=""/>
+</div>
 
 # 👻 About
-Hello! I am Timmy, a front-end developer. I am excited for you to come. We will surely have an amazing journey.💖
-## 📌 Pinned Repositories
 
-<a href="https://github.com/TIMMLOPK/once">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TIMMLOPK&repo=once&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+Hello! I am Timmy, a front-end developer.
 
-<br>
+### 📌 Languages and Tools
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
+</div>
 
-<a href="https://github.com/TIMMLOPK/TIMMYLOPK-Web">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TIMMLOPK&repo=TIMMYLOPK-Web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+# 📻 GitHub Stats
 
-<a href="https://github.com/TIMMLOPK/Old-Web">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TIMMLOPK&repo=Old-Web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TIMMLOPK&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]()
 
-<br>
-<br>
+</br>
 
-## 📻 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMMLOPK&layout=compact&theme=vision-friendly-dark)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMMLOPK&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMMLOPK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+</br>
+
+# ⚡⚡⚡
