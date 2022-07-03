@@ -1,6 +1,6 @@
 <img src="./card.png" style="height:300px;width:550px"/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/TIMMLOPK/TIMMYLOPK-Web)](https://lionceu.live)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=TIMMLOPK.TIMMLOPK)](https://lionceu.live)
 
 # 👻 About
 Hello! I am Timmy, a front-end developer. I am excited for you to come. We will surely have an amazing journey.💖
