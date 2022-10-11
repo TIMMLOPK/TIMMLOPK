@@ -9,7 +9,7 @@
 
 # 👻 About
 
-Hello! I am Timmy, a front-end developer.
+Hello! I am Timmy
 
 ### 📌 Languages and Tools
 <div>
@@ -29,12 +29,8 @@ Hello! I am Timmy, a front-end developer.
 
 # 📻 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TIMMLOPK&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=TIMMLOPK&theme=github-dark-blue&hide_border=true)]()
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMMLOPK&layout=compact&theme=vision-friendly-dark)]()
-
-</br>
-
-# ⚡⚡⚡
